@@ -1,0 +1,12 @@
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.deps.json
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.runtimeconfig.json
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.runtimeconfig.dev.json
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.dll
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.pdb
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.csprojAssemblyReference.cache
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.AssemblyInfoInputs.cache
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.AssemblyInfo.cs
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.csproj.CoreCompileInputs.cache
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.dll
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.pdb
+/Users/johnlondono/Desktop/Coding_Dojo/C#/Wk_1_Assign/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.genruntimeconfig.cache
